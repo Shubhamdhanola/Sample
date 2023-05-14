@@ -13,8 +13,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
 <script src="https://kit.fontawesome.com/456286dfa8.js" crossorigin="anonymous"></script>
 
-  
-<style>
+  <style>
 	body{
 		font-family:lato;
 	}
@@ -214,77 +213,76 @@
 </style>
 
 <body>
-
-	<nav class="navbar">
-	  <div class="container">
-		<br>
-			<div class="navbar-header">
-			  <img src="images/car_logo.png">
-			</div>
-			<div class="navbar-header brand ">
-				<h2 style="color:#1e5a95"> CARS <span style="color:black"> REPAIR</span></h2>
-			</div>
-		<ul class="nav navbar-nav navbar-right">
-			<li><a href="" style="color:#397dc0">Follow us on:</a></li>
-			<li><a href=""><i class="fa-brands fa-square-twitter" style="color: #636363;"></i></a></li>
-			<li><a href=""><i class="fa-brands fa-facebook" style="color: #626060;"></i></a></li>
-			<li><a href=""><i class="fa-brands fa-google-plus" style="color: #626364;"></i></a></li>
-		</ul>
-	  </div>
-	  <br>
-	</nav>
+<nav class="navbar">
+	<div class="container">
+	<br>
+	<div class="navbar-header">
+		 <img src="images/car_logo.png">
+	</div>
+	<div class="navbar-header brand ">
+		<h2 style="color:#1e5a95"> CARS <span style="color:black"> REPAIR</span></h2>
+	</div>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="" style="color:#397dc0">Follow us on:</a></li>
+		<li><a href=""><i class="fa-brands fa-square-twitter" style="color: #636363;"></i></a></li>
+		<li><a href=""><i class="fa-brands fa-facebook" style="color: #626060;"></i></a></li>
+		<li><a href=""><i class="fa-brands fa-google-plus" style="color: #626364;"></i></a></li>
+	</ul>
+	</div>
+	<br>
+</nav>
 
 <!--Container (Start Repairing)-->
 <div class="container-fluid title_img">
-		<img src="https://ak8.picdn.net/shutterstock/videos/33875458/thumb/6.jpg " class="img-responsive">
+	<img src="https://ak8.picdn.net/shutterstock/videos/33875458/thumb/6.jpg " class="img-responsive">
 </div>
 
 <!-- Container(feature Repairing)-->
 <div class="container-fluid featured" style="background:lightgrey;">
 	<div class="container text-center">
 	<br>
-		<h2><b>FEATURED  REPAIRING SERVICES</b></h2>
-		<br>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Aempor incididunt ut labore et dolore magna aliqua.</p>
-		<br>
-		<br>
-		<div class="row">
-			<div class="col-sm-3">
-				<div class="thumbnail">
+	<h2><b>FEATURED  REPAIRING SERVICES</b></h2>
+	<br>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Aempor incididunt ut labore et dolore magna aliqua.</p>
+	<br>
+	<br>
+	<div class="row">
+		<div class="col-sm-3">
+			<div class="thumbnail">
 				<p><span class="glyphicon glyphicon-calendar"></span></p>
 				<h4>Fast Low Cost Frieght</h4>
 				<div class="caption">				
-				<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
-				</div>
+					<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
 				</div>
 			</div>
+		</div>
 			
-			<div class="col-sm-3">
-				<div class="thumbnail">
+		<div class="col-sm-3">
+			<div class="thumbnail">
 				<p><span class="glyphicon glyphicon-calendar"></span></p>
 				<h4>Fast Low Cost Frieght</h4>
 				<div class="caption">
-				<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
-				</div>
+					<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
 				</div>
 			</div>
+		</div>
 			
-			<div class="col-sm-3">
-				<div class="thumbnail">
+		<div class="col-sm-3">
+			<div class="thumbnail">
 				<p><span class="glyphicon glyphicon-calendar"></span></p>
 				<h4>Fast Low Cost Frieght</h4>
 				<div class="caption">
-				<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
-				</div>
+					<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
 				</div>
 			</div>
+		</div>
 			
-			<div class="col-sm-3">
-				<div class="thumbnail">
+		<div class="col-sm-3">
+			<div class="thumbnail">
 				<p><span class="glyphicon glyphicon-calendar"></span></p>
 				<h4>Fast Low Cost Frieght</h4>
 				<div class="caption">				
-				<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
+					<p>Lorizzle ipsizzle dolor sizzle amizzle, ma nizzle adipiscing pot. Izzle sapien velit, fizz gangsta.</p>
 				</div>
 				</div>
 			</div>
